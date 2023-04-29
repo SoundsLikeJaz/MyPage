@@ -2,3 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  text-align: center;
+  color: deepskyblue;
+}
+
+h3 {
+  color: darkslateblue;
+}
+
+
+
